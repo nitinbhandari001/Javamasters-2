@@ -1,0 +1,6 @@
+com/javamasters/Auth/model/User.class
+com/javamasters/Auth/service/AuthServiceImpl.class
+com/javamasters/Auth/controller/AuthIntegrationController.class
+com/javamasters/Auth/AuthApplication.class
+com/javamasters/Auth/service/AuthService.class
+com/javamasters/Auth/model/AuthRequest.class
